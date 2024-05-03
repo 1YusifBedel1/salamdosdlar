@@ -1,0 +1,48 @@
+footer .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background: #02050a;
+    padding-top: 50px;
+}
+.footer-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    width: 1250px;
+    color: lightgray;
+}
+.footer-end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1250px;
+}
+.footer-end ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  
+}
+.footerCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footerCardImage{
+    background: #55e6a5;
+    padding: 12px 22px;
+    border-radius: 50%;
+}
+.footerCardImage svg{
+    width: 40px;
+}
+.footerCardText{
+
+}

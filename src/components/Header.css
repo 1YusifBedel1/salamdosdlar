@@ -1,0 +1,25 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1250px;
+    position: fixed;
+   
+    background: #141c27;
+}
+nav ul{
+    display: flex;  justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+nav ul li a{
+    color: white;
+}
+nav div i{
+    color: white;
+}
+nav div{
+    padding: 31px;
+    background: #55e6a5;
+}
